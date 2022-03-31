@@ -5,15 +5,15 @@ category: info
 
 docname: draft-dwaite-oauth-jit-registration-latest
 v: 3
-area: SEC
-workgroup: Web Authorization Protocol
+area: "Security"
+workgroup: "Web Authorization Protocol"
 keyword: Internet-Draft
 venue:
-  group: oauth
-  type: Working Group
-  mail: oauth@ietf.org
-  arch: https://mailarchive.ietf.org/arch/browse/oauth/
-  github: dwaite/oauth-jit-registration
+  group: "Web Authorization Protocol"
+  type: "Working Group"
+  mail: "oauth@ietf.org"
+  arch: "https://mailarchive.ietf.org/arch/browse/oauth/"
+  github: "dwaite/oauth-jit-registration"
 #  latest: https://example.com/LATEST
 
 author:
